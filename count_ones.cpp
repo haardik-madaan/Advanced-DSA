@@ -1,3 +1,6 @@
+//problem statement ---> You are give a number 'n', you have to count the number of 1's occuring from 0 to n. 
+
+
 #include<bits/stdc++.h>
 using namespace std;
 int dp[10][2][10];

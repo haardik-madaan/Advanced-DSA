@@ -1,3 +1,7 @@
+//problem statement ---> you have to count the number of 3's occuring from a number l to number r.
+
+
+
 #include<bits/stdc++.h>
 using namespace std;
 int dp[10][2][10];
